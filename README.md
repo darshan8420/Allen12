@@ -1,10 +1,9 @@
-# Flutter Awesome App
+
+# Allen12
 
 [![Build Status](https://travis-ci.org/your-username/flutter-awesome-app.svg?branch=main)](https://travis-ci.org/your-username/flutter-awesome-app)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-
-# Allen12
 
 This project, Allen12, a flutter-based application with multiple technologies integrated such as ChatGPT, DallE along with Text-to-Speech (TTS) and Speech-to-Text (STT) functionality. 
 
